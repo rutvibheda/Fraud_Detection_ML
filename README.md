@@ -13,4 +13,12 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - **`creditcard.xlsx`** – The dataset used for training and testing.
 - **`credit_card_model.pkl`** – The trained machine learning model for fraud detection.
 
+## Model Used
+Machine Learning Algorithms: Logistic Regression and Decision Trees.
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
+
+## Results
+The model is trained to detect fraudulent transactions with high accuracy.
+Performance is evaluated based on key classification metrics.
+
 The dataset is taken from Kaggle.
