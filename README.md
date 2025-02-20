@@ -8,10 +8,10 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - **Description:** Contains transaction records with features like transaction amount, time, and anonymized variables.
 - **Target Variable:** A label indicating whether a transaction is fraudulent (1) or legitimate (0).
 
-## Files in the Repository
+## Files in the Project
 - **`fraud_detection.ipynb`** – Jupyter Notebook containing data preprocessing, feature engineering, model training, and evaluation.
-- **`creditcard.xlsx`** – The dataset used for training and testing.
-- **`credit_card_model.pkl`** – The trained machine learning model for fraud detection.
+- **`creditcard.xlsx`** – The dataset used for training and testing. Data: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- **`credit_card_model.pkl`** – The trained machine learning model for fraud detection. 
 
 ## Model Used
 Machine Learning Algorithms: Logistic Regression and Decision Trees.
